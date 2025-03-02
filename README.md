@@ -1,7 +1,3 @@
-Sure! If you want to add the license under your name, I’ve updated the `README.md` to reflect that. Here's the updated version:
-
----
-
 # Hand Gesture Control Application
 
 This Python application detects hand movements via a webcam and uses gestures to simulate keypress actions. It utilizes OpenCV for image processing, PyAutoGUI for simulating key presses, and provides real-time gesture-based interaction.
